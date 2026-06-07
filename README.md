@@ -85,12 +85,10 @@ I'm a Full Stack Developer and Software Engineer with 7+ years of experience des
 
 ---
 
-### 📊 GitHub Stats
+### 📈 What I'm working on
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BanDev01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanDev01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
+Currently scaling **DaniaSoft** to new schools and building **OndésMédia**. 
+Most of my production work lives in private repositories — happy to share code samples on request.
 
 ---
 
