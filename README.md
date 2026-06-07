@@ -95,10 +95,10 @@ Most of my production work lives in private repositories — happy to share code
 
 ### 🏆 Certifications
 
-- **Cisco Network Technician Career Path** — Cisco Networking Academy (85%)
+- **Licence in Networks & Telecommunications** — UPL
 - **Full Stack Developer · Cybersecurity · AI Solutions** — Udemy
 - **Web Development & Digital Skills** — OpenClassrooms
-- **Licence in Networks & Telecommunications** — UPL
+- **Cisco Network Technician Career Path** — Cisco Networking Academy (85%)
 
 ---
 
