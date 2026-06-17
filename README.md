@@ -62,6 +62,7 @@ I'm a Full Stack Developer and Software Engineer with 7+ years of experience des
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
