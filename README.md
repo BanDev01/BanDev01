@@ -22,7 +22,7 @@ I'm a Full Stack Developer and Software Engineer with 7+ years of experience des
 - 🔭 Currently building **DaniaSoft** (Next.js 14 · NestJS · PostgreSQL) and **OndésMédia** (AI-powered pan-African media platform)
 - 🌱 Specializing in **React / Next.js**, **NestJS / Node.js**, and **React Native / Flutter**
 - 👨‍🏫 Trained **300+ IT professionals** in networking, security & development
-- 💬 Languages: French · English · Lingala · Swahili
+- 💬 Languages: French · English Tech · Lingala · Swahili
 - ⚡ Open to **remote roles & freelance missions** worldwide
 
 ---
