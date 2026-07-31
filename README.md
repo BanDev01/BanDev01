@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer · Software & Network Engineer · IT & Dev Trainer</b><br>
-  Building secure, scalable web & mobile solutions · 5+ years of experience<br>
+  Building secure, scalable web & mobile solutions · 7+ years of experience<br>
   📍 Lubumbashi, DR Congo · 🌍 Available Remote · Hybrid or On-site Optional
 </p>
 
