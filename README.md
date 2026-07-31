@@ -76,7 +76,7 @@ I'm a Full Stack Developer and Software Engineer with 7+ years of experience des
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **DaniaSoft** 🔒 | Multi-tenant school management SaaS — 14 RBAC roles, 20+ modules, dual currency (CDF/USD), e2e tested. Live at [daniasoft.cd](https://daniasoft.cd) | Next.js 14 · NestJS · PostgreSQL · Prisma · Redis · Docker |
+| **DaniaSoft** 🔒 | Multi-tenant school management SaaS — 19 RBAC roles, 30+ modules, dual currency (CDF/USD), e2e tested. démo Live at [daniasoft.cd](https://daniasoft.cd/demo) | Next.js 14 · NestJS · PostgreSQL · Prisma · Redis · Docker |
 | [BlogMigrate](https://github.com/BanDev01/BlogMigrate) | Full-stack blog demonstrating a production MongoDB → Supabase (PostgreSQL) migration with zero UI change — 500 posts, 50 authors, 3 000+ comments, zero-data-loss validation. Live at [blog-migrate.vercel.app](https://blog-migrate.vercel.app) | Next.js 14 · TypeScript · MongoDB · Supabase · Prisma · Playwright |
 | **OndésMédia** 🔒 | Next-gen pan-African digital media platform with AI recommendations (Claude API), Algolia search, real-time features | Next.js · Fastify · PostgreSQL · Redis · Claude API |
 | **BE Technology** 🔒 | Professional showcase site for BE Technology — IT company specialized in software development, cybersecurity, video surveillance & digital transformation. Live at [be-technology.net](https://be-technology.net) | HTML · CSS · JavaScript · UI/UX |
