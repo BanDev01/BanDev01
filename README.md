@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bertin Ngongo 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · Software & Network Engineer · IT & Dev Trainer</b><br>
+  <b>Full Stack Developer & Network Engineer · IT & Dev Trainer</b><br>
   Building secure, scalable web & mobile solutions · 7+ years of experience<br>
   📍 Lubumbashi, DR Congo · 🌍 Available Remote · Hybrid or On-site Optional
 </p>
@@ -17,7 +17,8 @@
 
 ### 🚀 About me
 
-I'm a Full Stack Developer and Software Engineer with 7+ years of experience designing, building, and securing IT solutions for modern businesses. Founder of **BE Technology** and creator of **DaniaSoft**, a multi-tenant school management SaaS deployed in DR Congo.
+Full Stack Developer & Systems Engineer with 7+ years of experience. I design, code, deploy, install, and configure robust digital solutions tailored to growing businesses.
+Founder of **BE Technology** and creator of **DaniaSoft**, a multi-tenant school management SaaS deployed in DR Congo, phare project.
 
 - 🔭 Currently building **DaniaSoft** (Next.js 14 · NestJS · PostgreSQL) and **OndésMédia** (AI-powered pan-African media platform)
 - 🌱 Specializing in **React / Next.js**, **NestJS / Node.js**, and **React Native / Flutter**
