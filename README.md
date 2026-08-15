@@ -78,11 +78,11 @@ Founder of **BE Technology** and creator of **DaniaSoft**, a multi-tenant school
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **DaniaSoft** 🔒 | Multi-tenant school management SaaS — 19 RBAC roles, 30+ modules, dual currency (CDF/USD), e2e tested. démo Live at [daniasoft.cd](https://daniasoft.cd/demo) | Next.js 14 · NestJS · PostgreSQL · Prisma · Redis · Docker |
-| [BlogMigrate](https://github.com/BanDev01/BlogMigrate) | Full-stack blog demonstrating a production MongoDB → Supabase (PostgreSQL) migration with zero UI change — 500 posts, 50 authors, 3 000+ comments, zero-data-loss validation. Live at [blog-migrate.vercel.app](https://blog-migrate.vercel.app) | Next.js 14 · TypeScript · MongoDB · Supabase · Prisma · Playwright |
-| **OndésMédia** 🔒 | Next-gen pan-African digital media platform with AI recommendations (Claude API), Algolia search, real-time features | Next.js · Fastify · PostgreSQL · Redis · Claude API |
+| **FACQUO** 🔒 | A multi-tenant system for managing and generating quotes, delivery notes, expenses, and invoices for subcontracting service providers (DR Congo). Live at [facquo.vercel.app](https://facquo.vercel.app) | App Nets.js |
 | **BE Technology** 🔒 | Professional showcase site for BE Technology — IT company specialized in software development, cybersecurity, video surveillance & digital transformation. Live at [be-technology.net](https://be-technology.net) | HTML · CSS · JavaScript · UI/UX |
 | [SOS-GPS Mining](https://github.com/BanDev01/Systeme-SOS-GPS-pour-Industrie-Miniere) | Real-time GPS emergency & safety alert system for mine workers (Desktop & Mobile) | React · TypeScript · GPS |
-| [Noms de Dieu](https://github.com/BanDev01/noms-de-dieu) | Modern Christian mobile app to discover & meditate on the names of God | Flutter · Dart |
+| [Noms de Dieu](https://github.com/BanDev01/noms-de-dieu) | Modern Christian mobile app to discover & meditate on the names of God | Flutter · Dart · Coming soon to the App Stores |
+| **OndésMédia** 🔒 | Next-gen pan-African digital media platform with AI recommendations (Claude API), Algolia search, real-time features | Next.js · Fastify · PostgreSQL · Redis · Claude API |
 | [Flutter Business Card](https://github.com/BanDev01/flutter_business_card) | Digital business card app — cross-platform UI/UX showcase | Flutter · Dart |
 
 > 🔒 = Private / Production repos. Code samples available on request.
