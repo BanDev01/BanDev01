@@ -81,7 +81,7 @@ Founder of **BE Technology** and creator of **DaniaSoft**, a multi-tenant school
 | **FACQUO** 🔒 | A multi-tenant system for managing and generating quotes, delivery notes, expenses, and invoices for subcontracting service providers (DR Congo). Coming soon to the Normalization Invoice. Live at [facquo.vercel.app](https://facquo.vercel.app) | App Nexts.js · React · TypeScript |
 | **BE Technology** 🔒 | Professional showcase site for BE Technology — IT company specialized in software development, cybersecurity, video surveillance & digital transformation. Live at [be-technology.net](https://be-technology.net) | HTML · CSS · JavaScript · UI/UX |
 | [SOS-GPS Mining](https://github.com/BanDev01/Systeme-SOS-GPS-pour-Industrie-Miniere) | Real-time GPS emergency & safety alert system for mine workers (Desktop & Mobile) | React · TypeScript · GPS |
-| [Noms de Dieu](https://github.com/BanDev01/noms-de-dieu) | Modern Christian mobile app to discover & meditate on the names of God | Flutter · Dart · Coming soon to the App Stores |
+| [Noms de Dieu](https://github.com/BanDev01/noms-de-dieu) | Modern Christian mobile app to discover & meditate on the names of God · Coming soon to the App Stores | Flutter · Dart |
 | **OndésMédia** 🔒 | Next-gen pan-African digital media platform with AI recommendations (Claude API), Algolia search, real-time features | Next.js · Fastify · PostgreSQL · Redis · Claude API |
 | [Flutter Business Card](https://github.com/BanDev01/flutter_business_card) | Digital business card app — cross-platform UI/UX showcase | Flutter · Dart |
 
